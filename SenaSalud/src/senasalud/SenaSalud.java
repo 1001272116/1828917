@@ -8,9 +8,10 @@ public class SenaSalud {
 
     
     public static void main(String[] args) {
-        String nombre=JOptionPane.showInputDialog(null,"Digite su nombre");
+        String apellido=JOptionPane.showInputDialog(null,"Digite su apellido");
         
-        System.out.println("su nombre es: "+nombre);
+        System.out.println("su apellido es: "+apellido);
+        
     }
     
 }
